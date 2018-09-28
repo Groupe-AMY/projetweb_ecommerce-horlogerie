@@ -1,0 +1,9 @@
+Contact		: yannick.baudraz@cpnv.ch
+Thème 		: Horlogerie - ecommerce
+URL			: dev.tictac.acualit.info
+Application	: WordPress
+IP PUB		: 18.204.116.136
+Certificat	: https://www.dropbox.com/s/ycpzd2gj49t1113/CPNV_306_WORDPRESS_TICTAC.ppk?dl=0
+Docs		: https://aws.amazon.com/marketplace/pp/B01LZGCU95?ref=cns_srchrow
+			  https://www.dropbox.com/s/17feu20loaiu46w/Configurer_Putty.pdf?dl=0
+			  https://www.dropbox.com/s/z0f64g8xsnac4xk/Configurer_FileZilla.pdf?dl=0
